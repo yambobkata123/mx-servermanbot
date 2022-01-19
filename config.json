@@ -1,11 +1,11 @@
 {
-     "token": "",
+     "token": "OTMzMjQ5MjY1ODU2MjgyNjI0.YeeyGw.d_dp58rz7l-w9Bwh8QpQiJrFaYY",
      "prefix": "!",
-     "admin_roleid": "",
+     "admin_roleid": "932586804081733672",
      "discord_whitelist": {
           "active": true,
-          "role_id": "",
-          "server_id": ""
+          "role_id": "930919879614283826",
+          "server_id": "930431956997505085"
      },
      "useQB": true,
      "old_esx": {
